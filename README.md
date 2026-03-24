@@ -1,123 +1,125 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Atharv%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=14%20y/o%20%7C%20Future%20%231%20Tennis%20Player%20%7C%20Builder%20%7C%20Pilot-in-the-making&descAlignY=60&descSize=16" />
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-### 🎾 On a mission to become the **#1 Tennis Player in the World** 🌍
-*While building cool stuff and learning to fly on the side.*
-
-</div>
-
----
-
-## ⚡ About Me
-
-```yaml
-name: "Atharv Raj Sharma"
-age: 14
-location: "India 🇮🇳"
-currently: "Training. Coding. Dreaming big."
-goal: "ATP World #1 — no shortcuts, no excuses."
-
-passions:
-  - 🎾 Tennis         # The main mission
-  - 💻 Coding         # Building the future
-  - 🎸 Guitar         # When I need to unplug
-  - ✈️ Aviation       # Sky's not the limit — it's just the start
-
-mindset: "Obsessed > Talented"
+```
+A T H A R V   R A J   S H A R M A
 ```
 
+<br/>
+
+*14 · India · Builder · Athlete · Dreamer*
+
+<br/>
+
 ---
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
+<br/>
+
+```yaml
+about:
+  currently  : "training hard, shipping code, learning to fly"
+  passions   : [ tennis, coding, aviation, guitar ]
+  mindset    : "obsessed > talented"
+```
+
+<br/>
+
 ---
 
-## 📊 GitHub Stats
+<br/>
+
+**craft**
+
+`python` &nbsp;·&nbsp; `javascript` &nbsp;·&nbsp; `html` &nbsp;·&nbsp; `css` &nbsp;·&nbsp; `git`
+
+<br/>
+
+---
+
+<br/>
+
+**numbers**
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvrs07&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvrs07&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=atharvrs07&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvrs07&layout=compact&theme=graywhite&hide_border=true&hide_title=true" />
 
 </div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvrs07&theme=midnight-purple&hide_border=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvrs07&theme=default&hide_border=true&stroke=cccccc&ring=999999&fire=999999&currStreakNum=333333&sideNums=333333&currStreakLabel=888888&sideLabels=888888&dates=aaaaaa&background=ffffff" />
 </div>
 
----
-
-## 🎯 2025 Goals
-
-- [ ] 🎾 Break into top national ranking in tennis
-- [ ] 💻 Ship **3 real projects** to production
-- [ ] ✈️ Complete introductory flight training hours
-- [ ] 🎸 Learn 10 full songs on guitar
-- [ ] 📚 Master Data Structures & Algorithms
+<br/>
 
 ---
 
-## 🎾 Tennis Philosophy
+<br/>
+
+**goals · 2025**
+
+```
+○  break into top national tennis ranking
+○  ship 3 real projects
+○  complete intro flight training hours
+○  learn 10 songs on guitar
+○  master data structures & algorithms
+```
+
+<br/>
+
+---
+
+<br/>
+
+**tennis**
 
 > *"Champions aren't born in comfort zones."*
 
-I train every single day with one goal in mind — **always aiming for the top**. Not just dreaming about it. Actually working for it. Every serve, every rally, every drill is a step closer. The grind never stops.
+Every serve. Every rally. Every drill. Always aiming for the top.
+
+<br/>
 
 ---
 
-## ✈️ Aviation Corner
+<br/>
 
-There's something about being at 30,000 feet that hits different. Aviation isn't just a hobby — it's a mindset. Precision. Discipline. Situational awareness. The same things that make a great pilot make a great tennis player and a great developer.
+**aviation**
 
----
+30,000 feet changes your perspective on everything — precision, discipline, awareness. The same qualities that build a great pilot build a great player and a great developer.
 
-## 🎸 Off the Court
-
-When the racket's down and the laptop's closed, you'll find me with a guitar. Music is how I reset. Currently learning **Killing in the Name** — it's a whole vibe.
+<br/>
 
 ---
 
-## 📫 Connect With Me
+<br/>
+
+**find me**
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atharvrajsharma2010)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atharvrs2010)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codewithatharv)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfpatharv@gmail.com)
+[x](https://x.com/atharvrs2010) &nbsp;·&nbsp; [instagram](https://instagram.com/atharvrajsharma2010) &nbsp;·&nbsp; [youtube](https://youtube.com/@codewithatharv) &nbsp;·&nbsp; [mail](mailto:cfpatharv@gmail.com)
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<br/>
 
-*"The journey to #1 starts with today's commit."* 🚀
+![](https://komarev.com/ghpvc/?username=atharvrs07&color=lightgrey&style=flat&label=visitors)
 
-![Profile Views](https://komarev.com/ghpvc/?username=atharvrs07&color=blueviolet&style=flat-square)
+<br/>
 
 </div>
 
