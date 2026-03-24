@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Atharv%20Raj%20Sharma%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=14%20y/o%20%7C%20Future%20%231%20Tennis%20Player%20%7C%20Builder%20%7C%20Pilot-in-the-making&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Atharv%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=14%20y/o%20%7C%20Future%20%231%20Tennis%20Player%20%7C%20Builder%20%7C%20Pilot-in-the-making&descAlignY=60&descSize=16" />
 
 </div>
 
@@ -82,7 +82,7 @@ mindset: "Obsessed > Talented"
 
 > *"Champions aren't born in comfort zones."*
 
-I train every single day with one goal in mind — **World #1**. Not just dreaming about it. Actually working for it. Every serve, every rally, every drill is a step closer. The grind never stops.
+I train every single day with one goal in mind — **always aiming for the top**. Not just dreaming about it. Actually working for it. Every serve, every rally, every drill is a step closer. The grind never stops.
 
 ---
 
@@ -102,10 +102,10 @@ When the racket's down and the laptop's closed, you'll find me with a guitar. Mu
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/atharvrajsharma2010)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atharvrs2010)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codewithatharv)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cfpatharv@gmail.com)
 
 </div>
 
@@ -117,7 +117,7 @@ When the racket's down and the laptop's closed, you'll find me with a guitar. Mu
 
 *"The journey to #1 starts with today's commit."* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=atharvrs07&color=blueviolet&style=flat-square)
 
 </div>
 
