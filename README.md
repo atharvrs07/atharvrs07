@@ -94,7 +94,7 @@ There's something about being at 30,000 feet that hits different. Aviation isn't
 
 ## 🎸 Off the Court
 
-When the racket's down and the laptop's closed, you'll find me with a guitar. Music is how I reset. Currently learning **[your favorite songs/genre]** — it's a whole vibe.
+When the racket's down and the laptop's closed, you'll find me with a guitar. Music is how I reset. Currently learning **Killing in the Name** — it's a whole vibe.
 
 ---
 
