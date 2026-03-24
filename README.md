@@ -55,14 +55,14 @@ mindset: "Obsessed > Talented"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvrs07&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvrs07&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvrs07&theme=midnight-purple&hide_border=true" />
 
 </div>
 
