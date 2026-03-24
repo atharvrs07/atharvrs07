@@ -1,8 +1,6 @@
-## Hi there 👋
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=14%20y/o%20%7C%20Future%20%231%20Tennis%20Player%20%7C%20Builder%20%7C%20Pilot-in-the-making&descAlignY=60&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Atharv Raj Sharma%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=14%20y/o%20%7C%20Future%20%231%20Tennis%20Player%20%7C%20Builder%20%7C%20Pilot-in-the-making&descAlignY=60&descSize=16" />
 
 </div>
 
@@ -20,7 +18,7 @@
 ## ⚡ About Me
 
 ```yaml
-name: "[Your Name]"
+name: "Atharv Raj Sharma"
 age: 14
 location: "India 🇮🇳"
 currently: "Training. Coding. Dreaming big."
